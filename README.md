@@ -6,3 +6,4 @@ Then various document shortening algorithms are experimented with to summarize t
 
 This project works best for Wh- and yes/no questions and can partially answer the indirect questions.
 
+Please refer to the Python Notebook for the implementation. 
